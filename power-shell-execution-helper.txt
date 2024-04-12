@@ -1,0 +1,7 @@
+First, run this command!
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Then run the following command!
+
+.\run_pyment.ps1
